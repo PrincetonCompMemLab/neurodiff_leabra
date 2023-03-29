@@ -6,7 +6,7 @@ package hip
 
 import (
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // Contrastive Hebbian Learning (CHL) parameters

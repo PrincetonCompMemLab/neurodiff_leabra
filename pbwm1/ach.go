@@ -7,7 +7,7 @@ package pbwm
 import (
 	"log"
 
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
 	"github.com/goki/ki/kit"
 )
 

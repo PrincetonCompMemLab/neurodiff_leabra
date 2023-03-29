@@ -1,9 +1,9 @@
-module github.com/PrincetonCompMemLab/private-leabra
+module github.com/PrincetonCompMemLab/neurodiff_leabra
 
 go 1.18
 
 require (
-	github.com/PrincetonCompMemLab/private-emergent v0.5.4-0.20230313041853-b7c632ccb54c
+	github.com/PrincetonCompMemLab/neurodiff_emergent v0.5.4-0.20230313041853-b7c632ccb54c
 	github.com/chewxy/math32 v1.0.6
 	github.com/emer/etable v1.0.42
 	github.com/goki/gi v1.2.18-0.20220729010345-9de4071f7e0d

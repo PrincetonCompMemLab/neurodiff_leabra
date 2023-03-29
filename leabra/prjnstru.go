@@ -8,9 +8,9 @@ import (
 	"errors"
 	"log"
 
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-emergent/params"
-	"github.com/PrincetonCompMemLab/private-emergent/prjn"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/params"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/prjn"
 	"github.com/emer/etable/etensor"
 	"github.com/emer/etable/minmax"
 	"github.com/goki/gi/giv"

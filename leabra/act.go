@@ -6,11 +6,11 @@ package leabra
 
 import (
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-emergent/erand"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/erand"
 	"github.com/emer/etable/minmax"
-	"github.com/PrincetonCompMemLab/private-leabra/chans"
-	"github.com/PrincetonCompMemLab/private-leabra/knadapt"
-	"github.com/PrincetonCompMemLab/private-leabra/nxx1"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/chans"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/knadapt"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/nxx1"
 	"github.com/goki/ki/ints"
 	"github.com/goki/ki/kit"
 	"github.com/goki/mat32"

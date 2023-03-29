@@ -6,7 +6,7 @@ package spike
 
 import (
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // ActParams is full set of activation params including those from base

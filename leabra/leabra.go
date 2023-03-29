@@ -5,7 +5,7 @@
 package leabra
 
 import (
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
 	"github.com/emer/etable/etensor"
 )
 

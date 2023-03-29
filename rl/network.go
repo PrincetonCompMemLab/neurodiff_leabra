@@ -5,10 +5,10 @@
 package rl
 
 import (
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-emergent/prjn"
-	"github.com/PrincetonCompMemLab/private-emergent/relpos"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/prjn"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/relpos"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // NOTE: rl layers are designed to be "mix-ins" with other networks so there is no

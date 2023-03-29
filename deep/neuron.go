@@ -9,7 +9,7 @@ import (
 	"unsafe"
 
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // deep.Neuron holds the extra neuron (unit) level variables for DeepLeabra computation.

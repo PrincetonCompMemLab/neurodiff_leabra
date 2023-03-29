@@ -167,8 +167,8 @@ go get github.com/emer/leabra
 cd PATH/TO/CODE/gocode/src/github.com/
 mkdir emer
 cd emer
-git clone https://github.com/PrincetonCompMemLab/private-leabra.git leabra
-git clone https://github.com/PrincetonCompMemLab/private-emergent.git emergent
+git clone https://github.com/PrincetonCompMemLab/neurodiff_leabra.git leabra
+git clone https://github.com/PrincetonCompMemLab/neurodiff_emergent.git emergent
 cd leabra
 git checkout origin/dev
 git checkout dev

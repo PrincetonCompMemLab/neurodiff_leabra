@@ -5,7 +5,7 @@
 package deep
 
 import (
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // DeepLayer defines the essential algorithmic API for DeepLeabra at the layer level.

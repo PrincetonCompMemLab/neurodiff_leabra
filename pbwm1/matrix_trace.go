@@ -8,8 +8,8 @@ import (
 	"fmt"
 
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // TraceSyn holds extra synaptic state for trace projections

@@ -14,9 +14,9 @@ import (
 	"os"
 
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-emergent/prjn"
-	"github.com/PrincetonCompMemLab/private-emergent/weights"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/prjn"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/weights"
 	"github.com/emer/etable/etensor"
 	"github.com/goki/ki/indent"
 	"github.com/goki/ki/ki"

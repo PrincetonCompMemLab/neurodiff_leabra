@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 	"github.com/goki/ki/bitflag"
 	"github.com/goki/ki/kit"
 )

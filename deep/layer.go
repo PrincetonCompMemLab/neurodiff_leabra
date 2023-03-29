@@ -6,8 +6,8 @@ package deep
 
 import (
 	"github.com/chewxy/math32"
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 	"github.com/goki/ki/ki"
 	"github.com/goki/ki/kit"
 )

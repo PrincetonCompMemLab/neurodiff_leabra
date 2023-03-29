@@ -4,7 +4,7 @@
 
 package leabra
 
-import "github.com/PrincetonCompMemLab/private-leabra/fffb"
+import "github.com/PrincetonCompMemLab/neurodiff_leabra/fffb"
 
 // leabra.InhibParams contains all the inhibition computation params and functions for basic Leabra
 // This is included in leabra.Layer to support computation.

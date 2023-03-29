@@ -5,9 +5,9 @@
 package leabra
 
 import (
-	"github.com/PrincetonCompMemLab/private-emergent/emer"
-	"github.com/PrincetonCompMemLab/private-emergent/params"
-	"github.com/PrincetonCompMemLab/private-emergent/relpos"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/emer"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/params"
+	"github.com/PrincetonCompMemLab/neurodiff_emergent/relpos"
 	"github.com/emer/etable/etensor"
 	"github.com/goki/gi/giv"
 	"github.com/goki/mat32"

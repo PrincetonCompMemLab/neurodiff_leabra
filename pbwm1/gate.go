@@ -6,8 +6,8 @@ package pbwm
 
 import (
 	"github.com/emer/etable/minmax"
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 	"github.com/goki/ki/ints"
 	"github.com/goki/ki/kit"
 )

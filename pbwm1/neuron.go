@@ -4,7 +4,7 @@
 
 package pbwm
 
-import "github.com/PrincetonCompMemLab/private-leabra/deep"
+import "github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
 
 // NeurVars are indexes into extra PBWM neuron-level variables
 type NeurVars int

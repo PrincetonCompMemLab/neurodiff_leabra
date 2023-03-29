@@ -7,7 +7,7 @@ package bgate
 import (
 	"strings"
 
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 	"github.com/goki/ki/kit"
 )
 

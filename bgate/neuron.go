@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 var (

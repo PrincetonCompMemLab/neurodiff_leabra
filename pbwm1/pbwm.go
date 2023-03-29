@@ -5,8 +5,8 @@
 package pbwm
 
 import (
-	"github.com/PrincetonCompMemLab/private-leabra/deep"
-	"github.com/PrincetonCompMemLab/private-leabra/leabra"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/deep"
+	"github.com/PrincetonCompMemLab/neurodiff_leabra/leabra"
 )
 
 // PBWMLayer defines the essential algorithmic API for PBWM at the layer level.
