@@ -3,7 +3,6 @@ module github.com/PrincetonCompMemLab/neurodiff_leabra
 go 1.18
 
 require (
-	github.com/PrincetonCompMemLab/neurodiff_emergent v0.5.4-0.20230313041853-b7c632ccb54c
 	github.com/chewxy/math32 v1.0.6
 	github.com/emer/etable v1.0.42
 	github.com/goki/gi v1.2.18-0.20220729010345-9de4071f7e0d
@@ -18,6 +17,7 @@ require (
 	github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc // indirect
 	github.com/BurntSushi/xgbutil v0.0.0-20190907113008-ad855c713046 // indirect
 	github.com/Masterminds/vcs v1.13.1 // indirect
+	github.com/PrincetonCompMemLab/neurodiff_emergent v0.0.0-20230329201147-531e5d3923e7 // indirect
 	github.com/ajstarks/svgo v0.0.0-20210927141636-6d70534b1098 // indirect
 	github.com/akutz/sortfold v0.2.1 // indirect
 	github.com/alecthomas/chroma v0.9.4 // indirect
